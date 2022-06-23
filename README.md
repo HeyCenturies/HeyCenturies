@@ -2,7 +2,7 @@
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Vitor :)</h1>
 </p>
 
-<h3 align="center">Backend Engineer 50% <img src="https://www.flaticon.com/svg/static/icons/svg/330/330430.svg" width="18" height="18""> 50% <img src="https://www.flaticon.com/svg/static/icons/svg/321/321256.svg" width="18" height="18""></h3> 
+<h3 align="center">Backend Engineer</h3> 
 <h3 align="center">Bachelor in Engineering, Sciente and Technology - Federal University of ABC(To be graduated in 2021)
                    Bachelor in Engineering, Computer Science - Federal University of ABC (To be graduated in 2022)</h3>
 <h3 align="center"></h3>
